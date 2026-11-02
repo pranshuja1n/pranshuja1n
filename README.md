@@ -15,6 +15,8 @@ I'm a **Senior Software Engineer at SmartBear** with **8+ years of experience** 
 
 I enjoy solving complex integration problems, building reliable systems, improving engineering practices, and helping teams grow.
 
+> **Turning manual processes into intelligent workflows — one AI skill file at a time.**
+
 - 🔭 **Currently building:** MCP-powered integrations that connect AI assistants with enterprise tools and workflows.
 - 🧠 **Current interests:** Tool discovery and execution, secure integrations, LLM-assisted engineering, agent workflows, and AI evaluation/guardrails.
 - 🛠️ **Engineering roots:** Java, Spring Boot, REST APIs, enterprise migrations, architecture, and developer tooling.
@@ -24,6 +26,9 @@ I enjoy solving complex integration problems, building reliable systems, improvi
 
 ### 🧩 MCP & enterprise AI integrations
 Designing and developing **Model Context Protocol-based systems** that make enterprise functionality accessible to AI assistants through well-defined tools. Areas of focus include tool interfaces, API orchestration, authentication-aware access, and reliability. 
+
+### ⚡ AI workflow automation
+Turning repetitive, manual processes into **intelligent, repeatable workflows** with **MCP, AI, reusable skill files, and supporting automation tools**. I focus on connecting systems, orchestrating multi-step tasks, and reducing manual effort while keeping workflows reliable and maintainable.
 
 ### 🤖 AI-assisted engineering
 Applying LLMs to practical engineering problems, including an **AI-powered migration error enrichment system** that helps surface possible root causes and next steps directly in the product experience. I'm also exploring ways to evaluate and safeguard AI-driven tool usage.
@@ -41,11 +46,13 @@ Bringing years of Java experience to modernization efforts: **Java 17 → 25**, 
 
 | Focus | Tools & concepts |
 | :--- | :--- |
-| **MCP & applied AI** | Model Context Protocol, AI tool integration, prompt engineering, LLM integration, agent workflows, evaluation & guardrails (exploring) |
-| **Languages & backend** | Java, Python, SQL, Spring Boot, REST APIs |
+| **MCP & applied AI** | Model Context Protocol, AI tool integration, prompt engineering, LLM integration, agent workflows, reusable AI skill files, evaluation & guardrails |
+| **Languages & backend** | Java, TypeScript, Node.js, Python, SQL, Spring Boot, REST APIs |
+| **Architecture & design** | Microservices, workflow design, SOLID principles, system modernization, enterprise data migrations |
+| **Testing & automation** | JUnit, Mockito, Selenium, [Reflect](https://reflect.run/), automated MCP tool testing, unit and end-to-end testing |
 | **Security & integration** | OAuth 2.0, API authentication, tool-access design, integration patterns |
-| **DevOps & quality** | GitHub Actions, CI/CD, Maven, JaCoCo, unit testing, code quality |
-| **Architecture & leadership** | System modernization, enterprise data migrations, technical mentoring, Agile delivery |
+| **DevOps & quality** | Git, GitHub Actions, CI/CD, Maven, JaCoCo, code quality |
+| **Leadership** | Technical mentoring, engineering training, cross-functional collaboration, Agile delivery |
 
 ## 🏆 Career highlights
 
@@ -54,6 +61,7 @@ Bringing years of Java experience to modernization efforts: **Java 17 → 25**, 
 - 🧭 **Enterprise delivery leadership:** helped recover critical engagements and protect key customer relationships under demanding timelines.
 - 📉 **Quality improvements:** contributed to an approximately **35% reduction in production bugs** through cross-functional and engineering-quality initiatives.
 - 🏗️ **Modernization ownership:** drove stack upgrades and introduced automated pull-request quality checks.
+- 🧪 **MCP test automation:** built automated testing workflows for MCP tools, helping validate tool execution and identify failures with less manual effort.
 
 ## 🎓 Certification
 
@@ -65,14 +73,9 @@ Bringing years of Java experience to modernization efforts: **Java 17 → 25**, 
 
 ## 📈 GitHub activity
 
-<details>
-<summary>View my GitHub stats</summary>
-<br />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranshuja1n&show_icons=true&hide_border=true&theme=transparent" alt="GitHub activity statistics for pranshuja1n" />
-  <img src="https://streak-stats.demolab.com?user=pranshuja1n&hide_border=true&theme=transparent" alt="GitHub contribution streak statistics for pranshuja1n" />
-</div>
-</details>
+My day-to-day engineering includes work in private enterprise repositories, so public contribution graphs only tell part of the story. For the latest visible activity, see my [GitHub repositories](https://github.com/pranshuja1n?tab=repositories) and [contribution overview](https://github.com/pranshuja1n).
+
+<!-- Verified GitHub metrics can be added here later without relying on third-party stats image services. -->
 
 ## 🤝 Let's connect
 
