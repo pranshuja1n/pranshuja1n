@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="342" viewBox="0 0 1200 342" role="img" aria-labelledby="title desc">
+  <title id="title">Pranshu Jain — MCP and AI engineering</title>
+  <desc id="desc">Dark navy and violet banner with Pranshu Jain's name and a network illustration connecting MCP to tools, APIs, and AI.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080E20"/>
+      <stop offset="0.58" stop-color="#111B37"/>
+      <stop offset="1" stop-color="#202149"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#45DFD0"/>
+      <stop offset="1" stop-color="#9A83FF"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#6854CD" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#6854CD" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#89A0C7" opacity="0.14"/>
+    </pattern>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="11"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="342" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="342" rx="18" fill="url(#dots)"/>
+  <path d="M0 325 L365 325" stroke="url(#line)" stroke-width="5"/>
+  <path d="M74 57 h66" stroke="#48E1CD" stroke-width="5" stroke-linecap="round"/>
+  <text x="73" y="124" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="750" letter-spacing="-2">Pranshu Jain</text>
+  <text x="76" y="173" fill="#D2DBF2" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="450">Building dependable systems for the AI era</text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="0.3">
+    <rect x="75" y="222" width="112" height="36" rx="18" fill="#1C4E60" stroke="#338A94" stroke-width="1"/>
+    <text x="131" y="245" fill="#A7FFF1" text-anchor="middle">MCP</text>
+    <rect x="202" y="222" width="154" height="36" rx="18" fill="#322D59" stroke="#7460AD" stroke-width="1"/>
+    <text x="279" y="245" fill="#E2D8FF" text-anchor="middle">AGENTIC AI</text>
+    <rect x="371" y="222" width="206" height="36" rx="18" fill="#1C314C" stroke="#536F96" stroke-width="1"/>
+    <text x="474" y="245" fill="#D5E7FF" text-anchor="middle">JAVA + BACKEND</text>
+  </g>
+  <g>
+    <circle cx="966" cy="166" r="181" fill="url(#halo)"/>
+    <circle cx="966" cy="166" r="111" stroke="#6783BC" stroke-opacity="0.20" stroke-width="1.5" fill="none" stroke-dasharray="4 7"/>
+    <circle cx="966" cy="166" r="80" stroke="#78AEE0" stroke-opacity="0.21" stroke-width="1.5" fill="none"/>
+    <path d="M967 165 L804 92 M967 165 L1080 66 M967 165 L1117 249 M967 165 L825 258" stroke="url(#line)" stroke-width="2.8" opacity="0.68"/>
+    <path d="M804 92 L1080 66 L1117 249 L825 258 Z" stroke="#4B608C" stroke-width="1.2" stroke-dasharray="4 8" fill="none" opacity="0.45"/>
+    <circle cx="967" cy="165" r="55" fill="#101D3B" stroke="#7FDCCF" stroke-width="2.4"/>
+    <circle cx="967" cy="165" r="43" fill="none" stroke="#9E8CFF" stroke-opacity="0.34" stroke-width="1.5"/>
+    <text x="967" y="176" text-anchor="middle" fill="#F4F8FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="31" font-weight="700">MCP</text>
+    <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="750" text-anchor="middle">
+      <circle cx="804" cy="92" r="30" fill="#112744" stroke="#45CECB" stroke-width="1.6"/>
+      <text x="804" y="97" fill="#AEFDF5">AI</text>
+      <circle cx="1080" cy="66" r="31" fill="#202447" stroke="#9A83FF" stroke-width="1.6"/>
+      <text x="1080" y="71" fill="#E0D9FF">API</text>
+      <circle cx="1117" cy="249" r="33" fill="#112744" stroke="#45CECB" stroke-width="1.6"/>
+      <text x="1117" y="254" fill="#AEFDF5">TOOLS</text>
+      <circle cx="825" cy="258" r="34" fill="#202447" stroke="#9A83FF" stroke-width="1.6"/>
+      <text x="825" y="263" fill="#E0D9FF">LLM</text>
+    </g>
+    <circle cx="738" cy="160" r="4" fill="#64DCCA"/>
+    <circle cx="1162" cy="128" r="3" fill="#AD9FF5"/>
+    <circle cx="1044" cy="303" r="4" fill="#64DCCA"/>
+  </g>
+</svg>
